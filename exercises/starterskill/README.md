@@ -1,0 +1,1 @@
+Everything you need as a sample skill that should be able to pass any technical requirements. This is good to pull and modify to fit your own skill. Includes security modules. Current configuration assumes deployment on Azure
