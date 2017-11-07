@@ -1,0 +1,22 @@
+﻿HelloWorldIntent say hello
+HelloWorldIntent say hello world
+HelloWorldIntent hello
+HelloWorldIntent say hi
+HelloWorldIntent say hi world
+HelloWorldIntent hi
+HelloWorldIntent how are you
+
+HelloNameIntent say hello to {Name}
+
+FeelingIntent how are you feeling
+FeelingIntent how are you feeling today
+FeelingIntent so how are you feeling
+FeelingIntent how are you doing
+
+IntroductionIntent introduce this project
+IntroductionIntent introduce me
+IntroductionIntent make an introduction
+IntroductionIntent arent you going to introduce yourself
+IntroductionIntent its time for introductions
+IntroductionIntent its time to start the project
+IntroductionIntent its time to begin
